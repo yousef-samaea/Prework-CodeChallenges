@@ -14,3 +14,11 @@ C:\Users\youse\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net5.0\ConsoleAp
 C:\Users\youse\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net5.0\ref\ConsoleApp10.dll
 C:\Users\youse\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.pdb
 C:\Users\youse\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.genruntimeconfig.cache
+C:\Users\youse\source\repos\Prework-CodeChallenges\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.csproj.AssemblyReference.cache
+C:\Users\youse\source\repos\Prework-CodeChallenges\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youse\source\repos\Prework-CodeChallenges\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.AssemblyInfoInputs.cache
+C:\Users\youse\source\repos\Prework-CodeChallenges\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.AssemblyInfo.cs
+C:\Users\youse\source\repos\Prework-CodeChallenges\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\youse\source\repos\Prework-CodeChallenges\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.dll
+C:\Users\youse\source\repos\Prework-CodeChallenges\ConsoleApp10\obj\Debug\net5.0\ref\ConsoleApp10.dll
+C:\Users\youse\source\repos\Prework-CodeChallenges\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.pdb
