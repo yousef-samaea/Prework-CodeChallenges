@@ -8,6 +8,7 @@ namespace ConsoleApp10
         {
             Program program = new Program();
             Console.WriteLine(program.ArrayMaxResult());
+            Console.WriteLine(program.leapYear());
         }
         public string ArrayMaxResult()
         {
@@ -18,11 +19,14 @@ namespace ConsoleApp10
             { 
             for (int i = 0; i < array.Length; i++)
             {
-                array[i] = int.Parse(Console.ReadLine());
+                array[i] = Convert.ToInt32(Console.ReadLine());
             }
             Console.WriteLine("Select any number");
-            number = int.Parse(Console.ReadLine());
+
+            number = Convert.ToInt32(Console.ReadLine());
+
             int countar = 0;
+
             for (int i = 0; i < array.Length; i++)
             {
                 if (array[i] == number)
@@ -36,6 +40,27 @@ namespace ConsoleApp10
             {
                 Console.WriteLine("only numbers");
 
+            }
+
+        }
+        public string leapYear()
+        {
+            Console.WriteLine("Enter Year : ");
+            int Year = Convert.ToInt32(Console.ReadLine());
+            if (Year % 4 == 0)
+            {
+                return "true it is a Leap Year" + Year;
+            }
+            else
+            {
+                if (Year % 100 == 0 && Year % 400 == 0)
+                {
+                    return "true it is a Leap Year" + Year;
+                }
+                else
+                {
+                    return "false it is a Leap Year" + Year;
+                }
             }
 
         }
